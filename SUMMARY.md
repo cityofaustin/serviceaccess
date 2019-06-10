@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [What We're Doing](README.md)
+* [Who We Are](who-we-are.md)
+* [Contact Us](contact-us.md)
 
