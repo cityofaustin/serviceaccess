@@ -1,5 +1,7 @@
 ---
-description: Insights and products from our work
+description: >-
+  Insights and products from our work to understand accessibility and develop
+  priorities to make services more usable for Austin residents
 ---
 
 # What We're Learning
