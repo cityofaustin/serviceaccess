@@ -1,3 +1,9 @@
+---
+description: >-
+  Overview of our project to inventory services, understand accessibility, and
+  develop priorities for redesigning and digitizing services
+---
+
 # What We're Doing
 
 Each day, Austin residents engage over 45 different city departments and offices to gain access to services. Through its numerous programs and units, the City offers hundreds of services, from everyday amenities to emergency resources including food assistance, building permits, utilities, and more.   
