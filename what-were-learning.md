@@ -19,7 +19,7 @@ We held a kickoff workshop to introduce City staff to the project and invite con
 
 [Presentation slides from project kickoff workshop](https://docs.google.com/presentation/d/14rSnRPAtLd7N9cvbKmxl07mCc3DuGuZgSUOV83ZpFUM/edit?usp=sharing) 
 
-Photos from the project kickoff workshop \(coming soon\)
+[Photos from the project kickoff workshop](https://photos.app.goo.gl/vXZEceZVSrz5rxxu7)
 
 Video from project kickoff workshop \(coming soon\)
 
