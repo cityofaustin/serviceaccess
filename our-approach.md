@@ -4,7 +4,7 @@ description: >-
   inventory services for redesign and digitization
 ---
 
-# Our approach
+# Our Approach
 
 This page describes our approach to identify and prioritize City services to redesign and digitize, including how we are: 
 
@@ -32,7 +32,7 @@ We are identifying services that the City of Austin's 40+ departments offer acro
 Our approach to prioritizing services considers three primary factors:
 
 1. **Impact**: How important or worthwhile the service is to redesign or put online. We should focus on redesigning and bring online City services that have the highest impact on Austin communities.
-2. **Feasibility**: How easy the service would be to redesign or put online. We should consider feasibility in how we sort services to redesign and bring online -- but not focus on the easiest services alone. We should achieve a balance.
+2. **Complexity**: How easy the service would be to redesign or put online. We should consider complexity in how we sort services to redesign and bring online -- but not focus on the easiest services alone. We should achieve a balance.
 3. **Accessibility**: What barriers people may face in accessing and using the service. We should focus on services that have the clearest need for more accessibility. 
 
 ### **Assessing the impact of a City service** 
@@ -50,14 +50,15 @@ In principle, the most impactful City services are services that:
 
 This is a divergent list of the many factors we need to consider in prioritizing services. And there are many contradictions and tradeoffs within this list. Few, if any, services would rate highly on all these principles.
 
-### **Assessing the feasibility of redesigning or digitizing a City service**
+### **Assessing the complexity of redesigning or digitizing a City service**
 
-Feasibility factors we will consider include:
+Complexity factors we will consider include:
 
-* **Business process**: How many City departments coordinate in delivering a service. Services that involve fewer departments tend to be easier to redesign and digitize.
-* **Legal or contractual requirements from outside entities**: How a City service connects with or depends on an entity outside the City of Austin \(e.g., nonprofit, state or federal government agency\). These outside funders and partners can have requirements on how the City delivers a service. So services that the City of Austin alone delivers tend to be easier to redesign than those that rely on external funding or tie-in with another level of government.  
-* **Technological requirements**: Whether the service would need more complicated technology such as payments or digital identity. Services with simpler technology needs tend to be easier to redesign and digitize. 
-* **Funding requirements**: Whether the service must consider requirements from outside funding sources \(e.g., grantor, federal government\). Services that do not have to follow funding requirements tend to be easier to redesign and digitize. 
+* **Partners involved**: How many City departments coordinate in delivering a service. This includes departments that have to verify information, contribute their own workflows to the service, manage the data collected by the service, or have some other type of role in making the service work. Services that involve more departments tend to be more complex to redesign and digitize.
+* **Legal or contractual requirements**: How a City service connects with or depends on an entity outside the City of Austin to deliver, oversee, or regulate the service. External organizations can include inter-governmental partners \(county, state, federal government\), contracted vendors or grantees. Because outside partners and partners can place requirements on how the City delivers, manages, or monitors a service, services that involve legal or contractual requirements tend to be more complex to redesign.  
+* **Funding requirements**: Whether the service must consider requirements from outside funding sources, such as a grant-making foundation or state or federal government funder. Services that receive outside funding tend to be more complex to redesign and digitize due to requirements that often come with this funding.
+* **Technological requirements**: Whether the service would need more complicated technology such as payments or digital identity/authentication. Services that require these features tend to be more complex to redesign and digitize.  
+* **Departmental interest or priority**: Where the service falls in the priorities of the department that provides it. Department leaders that place a high priority on improving a service can often overcome the other complexity factors outlined above.  
 
 ## **Understanding and assessing accessibility**
 
