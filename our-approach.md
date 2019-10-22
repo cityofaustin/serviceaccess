@@ -90,3 +90,13 @@ To understand the accessibility of City services, we focus on several stages tha
 
 There are barriers to accessing service along different dimensions at each stage in the journey. Our vision for this project is to remove these barriers such that 100% of residents are able to find, navigate, and use the services. 
 
+We have been actively gathering feedback from residents and staff to understand the various barriers that occur at different points in a user's journey. Through events like:
+
+**Building Better Government: Accessibility defined by residents** - a community workshop, in which residents identified physical, digital, financial, content, and other barriers, and mapped them to service journeys.
+
+![Presenting the project to a room full of residents](.gitbook/assets/dscf2342.jpg)
+
+**The City: A journey through 500 forms** - an installation of all the forms that exist on the City of Austin's website, which prompted attendees to reimagine how we deliver services.
+
+![Rows of paper forms hanging from the ceiling and laid across the floor to demonstrated the amount of space occupied by all of the forms.](.gitbook/assets/image-from-ios-7.jpg)
+
