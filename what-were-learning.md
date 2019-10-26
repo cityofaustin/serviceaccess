@@ -23,3 +23,51 @@ We held a kickoff workshop to introduce City staff to the project and invite con
 
 Video from project kickoff workshop \(coming soon\)
 
+
+
+**Building Better Government: Accessibility defined by residents  - September 12, 2019**
+
+A central part of our work is understanding what accessibility means to residents who access or attempt to access services at the city. At the workshop we met residents and talked about:
+
+* Our project including goals, processes, and next steps 
+* Ran an exercise with residents to identify barriers around different factors such as transportation, financial, physical, digital, content, etc.
+* Discussed what a service journey is, how we are using it as a framework, and then mapped barriers to the different stages of the journey
+
+![Residents listening to an overview of our project](.gitbook/assets/dscf2342.jpg)
+
+[Presentation slides from the Building Better Government workshop ](https://docs.google.com/presentation/d/1Rw66X3tIYhSP8-lPivUypYKQ7AzhR5toGdxCZXMu9Ds/edit?usp=sharing)
+
+[Photos from the Building Better Government workshop](https://drive.google.com/open?id=1cB4nevcpIrfi2jHjB3TC9TuFGSJt2pWC)
+
+[Live caption transcript](https://drive.google.com/open?id=1Ui1FoaaXmAbOmFV0Y7edtI9XoIkxgqc2)
+
+
+
+**The City: A journey through 500 forms** **- October 11, 2019**
+
+In addition to workshops, we also organized an installation of all the forms that exist on the City of Austin's website. We prompted attendees to reimagine how we deliver services, and asked them how the installation made them feel.
+
+![Staff talking about the rows of forms hanging from the ceiling and along the floor.](.gitbook/assets/image-from-ios-7.jpg)
+
+[Photos from the installation](https://drive.google.com/drive/folders/1ynaTsLvilj-5NE4f8N_2BxyMTMCNJ0Z0?usp=sharing)
+
+
+
+**Co-Synthesis - October 22 and 23, 2019**
+
+Synthesis is a collaborative sense-making process, which helps to summarize large amounts of data into patterns, outliers, and ultimately insights. We invited residents and city staff to come in, review all of the comments that we had collected from past events and help discover patterns and themes within data. This worked sparked several new comments about access.
+
+![Residents and staff in front of boards with qualitative data captured on sticky notes from previous events.](.gitbook/assets/image-from-ios-11.jpg)
+
+Qualitative data and report out on accessibility \(Coming soon\)  
+
+
+**In addition to the workshops mentioned above, we also presented to and received feedback from the Mayor's Committee for People with Disabilities, the Equity Office, employees and residents at Digital Inclusion Week and attendees of the 2019 Civic Future's Summit.** You can find links to the presentations below:
+
+* [Presentation to the Equity Action Team](https://docs.google.com/presentation/d/1IrRJIRcmcgVstbD3sehKCs3U4YKZXEU8HCq4poa9P7g/edit?usp=sharing) - September 27, 2019
+* [Presentation at the Civic Futures Summit](https://docs.google.com/presentation/d/1eGQ5qqAQ4hdhNC42AsaB--07ysKndPTgo8iWhT0XMJg/edit?usp=sharing) - October 1, 2019
+* [Digitizing Services at the City of Austin: Creating Holistic Access for Residents ](https://docs.google.com/presentation/d/1-5u_fXvN3w2y0EIYNSbHwYSo3ISgS0CJJ8ur4yX25Q8/edit?usp=sharing)- October 7, 2019
+* [Presentation to the Mayor's Committee for People with Disabilities](https://docs.google.com/presentation/d/15UDikJOFBhYjVlf2-xI9pA91c2N999URotj8xfGesxQ/edit?usp=sharing) - October 11, 2019
+
+
+
