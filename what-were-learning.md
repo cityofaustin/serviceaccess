@@ -45,7 +45,7 @@ A central part of our work is understanding what accessibility means to resident
 
 **The City: A journey through 500 forms** **- October 11, 2019**
 
-In addition to workshops, we also organized an installation of all the forms that exist on the City of Austin's website. We prompted attendees to reimagine how we deliver services, and asked them how the installation made them feel.
+In addition to workshops, we also organized an installation of all the forms that exist on the City of Austin's website. We prompted attendees to reimagine how we deliver services, and asked them how all of these forms made them feel.
 
 ![Staff talking about the rows of forms hanging from the ceiling and along the floor.](.gitbook/assets/image-from-ios-7.jpg)
 
@@ -55,11 +55,11 @@ In addition to workshops, we also organized an installation of all the forms tha
 
 **Co-Synthesis - October 22 and 23, 2019**
 
-Synthesis is a collaborative sense-making process, which helps to summarize large amounts of data into patterns, outliers, and ultimately insights. We invited residents and city staff to come in, review all of the comments that we had collected from past events and help discover patterns and themes within data. This worked sparked several new comments about access.
+Synthesis is a collaborative sense-making process, which helps to summarize large amounts of data into patterns, outliers, and ultimately insights. We invited residents and city staff to come in, review all of the comments that we had collected from past events and help discover patterns and themes within data. This work sparked several new comments about access.
 
 ![Residents and staff in front of boards with qualitative data captured on sticky notes from previous events.](.gitbook/assets/image-from-ios-11.jpg)
 
-Qualitative data and report out on accessibility \(Coming soon\)  
+Qualitative data and insights on accessibility \(Coming soon\)  
 
 
 **In addition to the workshops mentioned above, we also presented to and received feedback from the Mayor's Committee for People with Disabilities, the Equity Office, employees and residents at Digital Inclusion Week and attendees of the 2019 Civic Future's Summit.** You can find links to the presentations below:
