@@ -1,7 +1,6 @@
 # Who We Are
 
-Our core team is composed of individuals from various fields, who work on the project on a day-to-day basis.  
-
+We are a team in the City of Austin's Office of Design & Delivery, part of Communications and Technology Management. 
 
 **Andrew Do** - Service Designer
 
@@ -10,4 +9,8 @@ Our core team is composed of individuals from various fields, who work on the pr
 **Sarah Rodriguez** - Data Analyst
 
 **Manlin Yao** - User Researcher
+
+**Nameir Majette** - Business Process Consultant
+
+**William Hutson** - Research Assistant
 
