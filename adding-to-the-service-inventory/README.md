@@ -14,9 +14,7 @@ We have asked department PIOs to coordinate information for this inventory. Expe
 
 ### **Access the questionnaire**
 
-{% embed url="https://bit.ly/service-questionnaire" %}
-
-We also gave each department an online spreadsheet version if you want to draft answers or fill in information for several services at the same time. Email us at [access@austintexas.gov](mailto:access@austintexas.gov) if you need the link to your department’s spreadsheet.
+**Update: We have closed the questionnaire to new submissions as of January 14, 2020. We will publish an archived version of the questionnaire soon.** 
 
 ### **Information we are asking for**
 

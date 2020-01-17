@@ -63,6 +63,5 @@ In addition to the workshops mentioned above, we also presented to and received 
 * [Presentation at the Civic Futures Summit](https://docs.google.com/presentation/d/1eGQ5qqAQ4hdhNC42AsaB--07ysKndPTgo8iWhT0XMJg/edit?usp=sharing) - October 1, 2019
 * [Digitizing Services at the City of Austin: Creating Holistic Access for Residents ](https://docs.google.com/presentation/d/1-5u_fXvN3w2y0EIYNSbHwYSo3ISgS0CJJ8ur4yX25Q8/edit?usp=sharing)- October 7, 2019
 * [Presentation to the Mayor's Committee for People with Disabilities](https://docs.google.com/presentation/d/15UDikJOFBhYjVlf2-xI9pA91c2N999URotj8xfGesxQ/edit?usp=sharing) - October 11, 2019
-
-
+* [Presentation to the Community Technology and Telecommunications Commission](https://drive.google.com/file/d/1P3hL7Q1KSu98XzUDoe8Ujlovirjw47MX/view?usp=sharing) \([access the video from the meeting here](https://gcc01.safelinks.protection.outlook.com/?url=http%3A%2F%2Faustintx.swagit.com%2Fplay%2F01082020-1107%2F6%2F&data=02%7C01%7CDaniel.Honker%40austintexas.gov%7C74c10b2d4e174d9ad62908d7952688b4%7C5c5e19f6a6ab4b45b1d0be4608a9a67f%7C0%7C0%7C637141865038123218&sdata=TWw%2Baw%2BP31pbc2hWY2l%2FY8j4AcaftkbTCzSrcFzshQ0%3D&reserved=0)\) January 8, 2020
 
