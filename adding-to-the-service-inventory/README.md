@@ -10,11 +10,15 @@ We are collecting an inventory of community-facing services that we should consi
 
 We have asked department PIOs to coordinate information for this inventory. Expect to take about four hours over the span of three weeks to complete the questionnaire for your department’s five services. 
 
+Check out the three steps to add to the service inventory below.
+
 ## **Step 1. Review the questionnaire and the information we are asking for.**
 
 ### **Access the questionnaire**
 
-**Update: We have closed the questionnaire to new submissions as of January 14, 2020. We will publish an archived version of the questionnaire soon.** 
+**Update: We have closed the inventory to new submissions as of January 14, 2020. View an archived version of the questionnaire below.**
+
+{% file src="../.gitbook/assets/service-access-questionnaire-formstack.pdf" caption="Service Access questionnaire - archived" %}
 
 ### **Information we are asking for**
 
