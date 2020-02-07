@@ -1,5 +1,5 @@
 ---
-description: >-
+Description: >-
   Overview of our project to inventory services, understand accessibility, and
   develop priorities for redesigning and digitizing services
 ---
